@@ -17,7 +17,7 @@ Standalone implementation of Zygisk, providing Zygisk API support for KernelSU a
 ### Magisk
 
 + Minimal version: 26402
-+ Built-in Zygisk turned off
++ Built-in Zygisk turned on
 
 ## Compatibility
 
